@@ -32,7 +32,7 @@ You will need the files from this git repository to complete the lab.
 ### File 5 - Sort All (25 points)
 * It will test whether or not you are able to create your own recursive function using the medianOfThree() and partition() functions you already coded for the previous tests.
 
-### Valgrind (10 points Pass/Fail)
+### Valgrind (10 points)
 * Your solution must be free of memory leaks and other Valgrind errors.
 
 ## Requirement Notes

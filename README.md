@@ -1,12 +1,7 @@
 # Lab5-Quicksort
 
 ## Briefing: 
-This is a no-help Lab.  This means that you should write and debug the code by yourself (but see the "Exception" below).  If you consult internet resources, you should not look at any code that implements quick sort, though you may consult code in Canvas.  Note, though, that your code must select "the pivot" as described in the lab even though it may be selected differently with other algorithms.
-
-The TAs will be able to help you understand the concepts of the quicksort algorithm (Median of 3 and Partitioning), but they will not be able to answer questions about implementation or help debug your code with you. Help can be given in understanding possible causes of Valgrind and Compilation errors, but the TA will not be able to work with you to solve them. It is OK to work through examples with other students, but you should do the design, implementation, coding and debugging on your own.
-
-## Exception: 
-Since this is the first time we will be using destructors in this class, you may get help from TAs and others to properly write your destructor.
+In this lab, you will implement the quicksort algorithm described in the book. Although there are other ways of selecting the pivot value, you should follow the algorithm described in section 10.9 of the book.  You will need to run valgrind on your code to make sure you dont have memory leaks or other errors.  You will need to use a destructor as part of the lab, so you should become familiar with destructors.
 
 ## Purpose
 The purpose of this lab is to implement quicksort.

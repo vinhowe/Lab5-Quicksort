@@ -33,4 +33,4 @@ You will need the files from this git repository to complete the lab.
 ## Requirement Notes
 * No predefined data structures may be used for this lab; you must use an array.
 * You are required to write a separate '.h' and '.cpp' for every class you implement.
-* Please note that because the Test Driver uses random tests, your code will need to be run multiple times to ensure it passes all cases. You must pass each time in order to get full credit for the lab.
+

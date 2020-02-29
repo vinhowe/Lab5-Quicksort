@@ -131,7 +131,6 @@ class QS : public QSInterface {
    */
   void clear() override;
 
-
  private:
   int* array{};
   int arrayCapacity{};
